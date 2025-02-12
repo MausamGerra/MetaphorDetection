@@ -1,6 +1,7 @@
 # Metaphor Detection Model Guide
 
 This guide explains how to use the training and testing scripts for metaphor detection.
+Please visit https://github.com/MausamGerra/MetaphorDetection to find the project related code.
 
 ## Prerequisites
 
